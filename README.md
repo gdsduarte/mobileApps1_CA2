@@ -29,4 +29,4 @@
 ## APK Releases
 
 1. Tickets Hub [link](https://1drv.ms/v/s!Ajwags4pvPE0t54UCeWQRFzdTtLtRQ?e=jkPeeO)
-2. [App release]()
+2. [App release](https://github.com/gdsduarte/mobileApps1_CA2/releases/tag/v1.0.0)
